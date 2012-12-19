@@ -1,0 +1,51 @@
+Tiphone.socket
+v7
+r1
+
+N/Users/antunnel/easymorse-iphone-read-only/iphone.socket/MainWindow.xib
+c000000004E7AD4F10000000000004E71
+t1316672753
+s20081
+
+N/Users/antunnel/easymorse-iphone-read-only/iphone.socket/build/Debug/iphone.socket.app
+t2
+s0
+
+N/Users/antunnel/easymorse-iphone-read-only/iphone.socket/build/Debug/iphone.socket.app/Contents/Info.plist
+t2
+s0
+
+N/Users/antunnel/easymorse-iphone-read-only/iphone.socket/build/Debug/iphone.socket.app/Contents/PkgInfo
+t2
+s0
+
+N/Users/antunnel/easymorse-iphone-read-only/iphone.socket/build/Debug/iphone.socket.app/Contents/Resources/MainWindow.nib
+t2
+s0
+
+N/Users/antunnel/easymorse-iphone-read-only/iphone.socket/build/Debug/iphone.socket.app/Contents/Resources/iphone_socketViewController.nib
+t2
+s0
+
+N/Users/antunnel/easymorse-iphone-read-only/iphone.socket/iphone_socketViewController.xib
+c000000004E7AD4F10000000000001A5D
+t1316672753
+s6749
+
+Niphone_socket-Info.plist
+c000000004E7AD4F10000000000000387
+t1316672753
+s903
+
+CCompileXIB /Users/antunnel/easymorse-iphone-read-only/iphone.socket/MainWindow.xib
+r0
+
+CCompileXIB /Users/antunnel/easymorse-iphone-read-only/iphone.socket/iphone_socketViewController.xib
+r0
+
+CProcessInfoPlistFile /Users/antunnel/easymorse-iphone-read-only/iphone.socket/build/Debug/iphone.socket.app/Contents/Info.plist iphone_socket-Info.plist
+r0
+
+CTouch /Users/antunnel/easymorse-iphone-read-only/iphone.socket/build/Debug/iphone.socket.app
+r0
+
