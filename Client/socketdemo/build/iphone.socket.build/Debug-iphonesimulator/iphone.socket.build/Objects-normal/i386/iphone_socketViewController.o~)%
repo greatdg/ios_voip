@@ -1,0 +1,9 @@
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: property 'client' requires method '-client' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: property 'client' requires the method 'setClient:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: property 'inputMsg' requires method '-inputMsg' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: property 'inputMsg' requires the method 'setInputMsg:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: property 'outputMsg' requires method '-outputMsg' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: property 'outputMsg' requires the method 'setOutputMsg:' to be defined - use @synthesize, @dynamic or provide a method implementation
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: incomplete implementation of class 'iphone_socketViewController'
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: method definition for '-backgroundTouch:' not found
+/Users/antunnel/easymorse-iphone-read-only/iphone.socket/Classes/iphone_socketViewController.m:139: warning: method definition for '-textFieldDoneEditing:' not found
